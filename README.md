@@ -6,4 +6,7 @@
 - clone this project
 - press `npm i`
 
+## Live version
+- http://157.245.156.135/
+
 ### Created by Bongkot Saelo :)
